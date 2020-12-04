@@ -52,6 +52,8 @@ County Results:
 
 #### The county with the largest voter turnout was Denver with 306,055 votes cast, representing 82.8% of the total vote in the election.
 
+[results](https://github.com/Solrys/Election_Analysis/blob/main/Screen%20Shot%202020-12-03%20at%208.37.18%20PM.png)
+
 ## Future Use of the Code
 
 This code can be used for future elections and to output results. Adjustments to the code could be made where necessary. In addition, we would need to change the reference to the source data and all pathways. For this project we used the file_to_load path to the election_results.CSV. That path would need to change depending on the name of the new csv file. We would also need to create a new output file that is unique to future projects so that we do not overwrite files from previous election results. This could be done by changing the file_to_save path to a new file name to receive the output.
