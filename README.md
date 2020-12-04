@@ -4,46 +4,46 @@
 
 A Colorado Board of Elections employee has asked for a report to determine the winning candidate of a recent local congressional election. They were looking for the following information:
 
-The total number of votes cast
+  1. The total number of votes cast
 
-A complete list of candidates who received votes
+  2. A complete list of candidates who received votes
 
-The total number of votes each candidate received
+  3. The total number of votes each candidate received
 
-The percentage of votes for each canditate won
+  4. The percentage of votes for each canditate won
 
-The winner of the election based on popular vote
+  5. The winner of the election based on popular vote
 
-### Resources
+## Resources
 
-Data Source: election_results.csv
-
-Software: Python, Visual Studio
+- Data Source: election_results.csv
+- Software: Python, Visual Studio
 
 ## Summary of Results
 The analysis of the election showed the following:
 
 Total votes cast in the election were 369,711.
 
-Candidate Results: Charles Casper Stockham: 23.0% (85,213 votes) Diana DeGette: 73.8% (272,892) Raymon Anthony Doane: 3.1% (11,606)
+Candidate Results: 
+  * Charles Casper Stockham: 23.0% (85,213 votes) 
+  * Diana DeGette: 73.8% (272,892) 
+  * Raymon Anthony Doane: 3.1% (11,606)
 
-The winning candidate was Diana DeGette with 73.8% of the vote, receiving 272,892 votes.
+#### The winning candidate was Diana DeGette with 73.8% of the vote, receiving 272,892 votes.
 
 ## Challenge Overview
 
 The Colorado Board of Elections has requested additional detail on the election results. They would like to know:
 
-the voter turnout in each county
-percentage votes of each county
-Written analysis of the election audit.
+  1. The voter turnout in each county
+  2. The percentage votes of each county
+  3. The written analysis of the election audit.
 
-### Resources 
+## Resources 
 
-Data Source: election_results.csv
-
-Software: Python, Visual Studio
-
-Starter Code = PyPoll_starter_challenge_code.py
+  - Data Source: election_results.csv
+  - Software: Python, Visual Studio
+  - Starter Code = PyPoll_starter_challenge_code.py
 
 ## Challenge Summary
 
