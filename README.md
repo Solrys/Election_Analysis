@@ -5,14 +5,19 @@
 A Colorado Board of Elections employee has asked for a report to determine the winning candidate of a recent local congressional election. They were looking for the following information:
 
 The total number of votes cast
+
 A complete list of candidates who received votes
+
 The total number of votes each candidate received
+
 The percentage of votes for each canditate won
+
 The winner of the election based on popular vote
 
-## Resources
+### Resources
 
 Data Source: election_results.csv
+
 Software: Python, Visual Studio
 
 ## Summary of Results
@@ -31,17 +36,23 @@ The Colorado Board of Elections has requested additional detail on the election 
 the voter turnout in each county
 percentage votes of each county
 Written analysis of the election audit.
-Resources Used:
+
+### Resources 
 
 Data Source: election_results.csv
+
 Software: Python, Visual Studio
+
 Starter Code = PyPoll_starter_challenge_code.py
 
 ## Challenge Summary
 
 The election audit results for the county votes are:
 
-County Results: Jefferson: 38,855 (10.5% of total vote) Denver: 306,055 (82.8% of total vote) Arapahoe: 24, 801 (6.7% of total vote)
+County Results: 
+Jefferson: 38,855 (10.5% of total vote)
+Denver: 306,055 (82.8% of total vote) 
+Arapahoe: 24, 801 (6.7% of total vote)
 
 The county with the largest voter turnout was Denver with 306,055 votes cast, representing 82.8% of the total vote in the election.
 
